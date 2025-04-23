@@ -4,7 +4,7 @@
 <a><img src='https://i.ibb.co/69Np4F3/image-1744505172998.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/lakaofc"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Lakaofc-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Anuwa666"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20Anuwa666-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -12,17 +12,17 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb10Jv560eBfnX6Jaa3Y)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{laka-md}/count.svg" alt="lakaofc :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lakaofc}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{laka-md}/count.svg" alt="Anuwa666 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Anuwa666}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/lakaofc/laka-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=lakaofc&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/Anuwa666/gg"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Anuwa666&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/lakaofc/laka-md"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Anuwa666/gg"><img title="Release" src="https://img.shields.io/badge/Release-%20v2.0.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 
@@ -70,7 +70,7 @@ You can deploy this bot for free on the following platforms:
 
 
 ###  Railway
-[![Deploy to Railway](https://img.shields.io/badge/Deploy%20to%20Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template/6KyYkk?referralCode=lakaofc)
+[![Deploy to Railway](https://img.shields.io/badge/Deploy%20to%20Railway-black?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new/template/6KyYkk?referralCode=Anuwa666)
 
 ---
 
@@ -134,16 +134,16 @@ jobs:
 
 ---
 
- ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flakaofc%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnuwa666%2Flaka-md&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![Docker Size](https://img.shields.io/docker/image-size/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Size)
-![Docker Pulls](https://img.shields.io/docker/pulls/lakaofc/laka-md?style=flat&logo=docker&label=Docker+Pulls)
+![Docker Size](https://img.shields.io/docker/image-size/Anuwa666/gg?style=flat&logo=docker&label=Docker+Size)
+![Docker Pulls](https://img.shields.io/docker/pulls/Anuwa666/gg?style=flat&logo=docker&label=Docker+Pulls)
 
-![forks](https://img.shields.io/github/forks/lakaofc/laka-md?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/lakaofc/laka-md?style=social)
+![forks](https://img.shields.io/github/forks/Anuwa666/gg?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/Anuwa666/gg?style=social)
 
-![size](https://img.shields.io/github/repo-size/lakaofc/laka-md?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/lakaofc/laka-md?color=purple&label=License&style=plastic)
+![size](https://img.shields.io/github/repo-size/Anuwa666/gg?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/Anuwa666/gg?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Laka%20ofc&color=purple&style=plastic)
 ----
 
